@@ -1,0 +1,14 @@
+body{background-color: black;}
+h1,h2{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: dotted;
+}
+b{
+    margin-left: 50px;
+    color: brown;
+}
+pre{
+    margin-left: 100px;
+    color: aliceblue;
+}
